@@ -1,0 +1,9 @@
+2. Tudeng nr 1 loob omale uue repositooriumi (Tudeng nr 2 tuleb lisada kollaboraatoriks
+Settings -&gt; manage access -&gt; invite a collaborator)
+3. Tudeng nr 1 loob faili conflict.md ning kirjutab sinna sisusse paar rida teksti omal
+valikul. Peale loomist tuleb fail ka repositooriumisse üles panna.
+4. Tudeng nr 2 võtab kollaboraatoriks olemise kutse vastu (kutse tuleb meilile)
+5. Tudeng nr 2 kloonib omale selle sama loodud repositooriumi.
+6. Mõlemad tudengid teevad omale uue haru.
+Uus haru nimetatakse üldiselt selle funktsionaalsuse järgi, millega seal tegeletakse,
+aga hetkel võite panna harudele enda
